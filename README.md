@@ -1,2 +1,2 @@
 # MyersDistribution
-R scripts that I used in my research efforts to derive a probability distribution for the rth record times of normally distributed data.
+This is a collection of R scripts that I used to simulate records from normally distributed data in order to derive a probability distribution for normal record times. I published the results of this research in Baylor University's undergraduate research journal, [Scientia](https://issuu.com/baylor_scientia/docs/scientia_2016_draft_for_issuu). The resulting distribution uses a single parameter to model the frequency at which record times occur.
